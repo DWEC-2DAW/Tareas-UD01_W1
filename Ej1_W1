@@ -1,0 +1,28 @@
+Ej1_1;
+
+console.log("¡Hola Mundo!");
+
+-------
+
+Ej1_2;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ej1_2</title>
+</head>
+<body>
+<SCRIPT LANGUAGE="JavaScript">
+        console.log("¡Hola Mundo!");
+</SCRIPT>
+</body>
+</html>
+-------
+
+EJ1_3
+
+Se crea archivo JS - hello.js - y se ejecuta en Terminal VScode con node.
+
+console.log("¡Hola Mundo!");
